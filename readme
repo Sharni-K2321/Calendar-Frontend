@@ -1,0 +1,40 @@
+# Calendar UI
+
+A modern, responsive calendar web application built with React, Tailwind CSS, and Vite.  
+Features include event creation, editing, deletion, conflict detection, search, date range filtering, and dark mode.
+
+## Features
+
+- Month view calendar with event display
+- Add, edit, and delete events with color coding
+- Conflict detection for overlapping events
+- Sidebar with:
+  - Mini calendar
+  - Date navigation
+  - Monthly/yearly and date range event filters
+  - Search events by title
+  - Today's reminders
+- Responsive design and dark mode toggle
+
+## Getting Started
+
+### Prerequisites
+
+- [Node.js](https://nodejs.org/) (v16 or newer recommended)
+- [npm](https://www.npmjs.com/) (comes with Node.js)
+
+### Installation
+
+1. Clone the repository:
+   ```sh
+   git clone <repo-url>
+   cd calendar-ui
+
+2. Install dependencies:
+    npm install
+
+Development
+3. Start the development server:
+    npm run dev
+
+Open http://localhost:5173 in your browser.   

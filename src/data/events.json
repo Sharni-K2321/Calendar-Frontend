@@ -1,0 +1,38 @@
+[
+    {
+      "startTime": "09:00",
+      "endTime": "10:00",
+      "color": "#4ade80",
+      "title": "Team Sync",
+      "date": "2025-06-23"
+    },
+    {
+      "startTime": "11:00",
+      "endTime": "12:00",
+      "color": "#facc15",
+      "title": "Client Meeting",
+      "date": "2025-06-24"
+    },
+    {
+      "startTime": "09:00",
+      "endTime": "10:00",
+      "color": "#60a5fa",
+      "title": "Code Review",
+      "date": "2025-06-25"
+    },
+    {
+      "startTime": "10:00",
+      "endTime": "11:00",
+      "color": "#a78bfa",
+      "title": "Design Review",
+      "date": "2025-06-25"
+    },
+    {
+      "startTime": "10:00",
+      "endTime": "11:00",
+      "color": "#fbbf24",
+      "title": "Sprint Retrospective",
+      "date": "2025-06-25"
+    }
+    
+]
